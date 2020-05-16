@@ -1,0 +1,7 @@
+package testMethods;
+
+import rootClass.Rootclass;
+
+public class tourDemoTestMethod_SignOnPage extends Rootclass{
+
+}

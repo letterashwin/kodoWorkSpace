@@ -1,0 +1,11 @@
+package commonMethods;
+
+import rootClass.Rootclass;
+
+public class ActionsClass extends Rootclass{
+	
+	public void clickOnElement(){
+		
+	}
+
+}

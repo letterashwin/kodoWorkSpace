@@ -1,0 +1,20 @@
+package stepDefinition;
+
+import org.openqa.selenium.WebDriver;
+
+import cucumber.api.java.en.Given;
+
+public class tourDemoStepDefinition {
+	
+	WebDriver driver = null ;
+	
+	@Given("^launch \"([^\"]*)\" website$")
+    public void launchUrl(String website) throws Exception {
+    	if (website.equals("New Tours")) {
+            driver.get("");
+            driver.manage().window().maximize();
+        }
+        Thread.sleep(3000);
+    }
+
+}

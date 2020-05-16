@@ -1,0 +1,68 @@
+package stepDefinition;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class tourDemoStepDefinition {
+	
+	WebDriver driver = null ;
+	
+	@Given("^I launch Browser$")
+	public void I_launch_browser() throws Throwable {
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Chrome\\chromedriver.exe");
+    	WebDriver driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		driver.get("http://newtours.demoaut.com/");
+	    
+	}
+	
+	@Given("^Register user$")
+	public void register_user() throws Throwable {
+		
+		driver.findElement(By.xpath("//a[text()='REGISTER']")).click();
+		
+  
+	}
+
+	
+
+	@Then("^Fill In details$")
+	public void fill_In_details() throws Throwable {
+		
+		driver.findElement(By.xpath("//input[@name='firstName']")).sendKeys("firstname");
+		driver.findElement(By.xpath("//input[@name='lastName']")).sendKeys("lastName");
+		driver.findElement(By.xpath("//input[@name='phone']")).sendKeys("123456");
+		driver.findElement(By.xpath("//input[@name='userName']")).sendKeys("demo@gmail.com");
+		
+		driver.findElement(By.xpath("//input[@name='address1']")).sendKeys("address1");
+
+		driver.findElement(By.xpath("//input[@name='city']")).sendKeys("city");
+		driver.findElement(By.xpath("//input[@name='state']")).sendKeys("state");
+		driver.findElement(By.xpath("//input[@name='postalCode']")).sendKeys("postalCode");
+		driver.findElement(By.xpath("//input[@name='email']")).sendKeys("username");
+		driver.findElement(By.xpath("//input[@name='password']")).sendKeys("password");
+		driver.findElement(By.xpath("//input[@name='confirmPassword']")).sendKeys("password");
+		driver.findElement(By.xpath("//input[@name='register']")).click();
+	    
+	}
+
+	@Then("^I login$")
+	public void i_login() throws Throwable {
+		
+		driver.findElement(By.xpath("//a[text()=' sign-in ']")).click();
+		driver.findElement(By.xpath("//input[@name='email']")).sendKeys("username");
+		driver.findElement(By.xpath("//input[@name='password']")).sendKeys("password");
+		driver.findElement(By.xpath("//input[@name='login']")).click();
+	    
+	}
+
+}

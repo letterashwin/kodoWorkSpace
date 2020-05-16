@@ -1,0 +1,900 @@
+2020-05-05 07:05:16,165 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bddFramework:bddFramework:0.0.1-SNAPSHOT @ G:\eclipseWorkspace\bddFramework\bddFramework\pom.xml.
+2020-05-05 07:05:18,682 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bddFramework/src/main/java
+2020-05-05 07:05:18,688 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bddFramework/src/main/resources
+2020-05-05 07:05:18,691 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bddFramework/src/test/java
+2020-05-05 07:05:18,693 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bddFramework/src/test/resources
+2020-05-05 07:05:25,899 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:05:25,933 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:05:25,947 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:05:25,949 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:07:17,779 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bddFramework:bddFramework:0.0.1-SNAPSHOT @ G:\eclipseWorkspace\bddFramework\bddFramework\pom.xml.
+2020-05-05 07:07:21,287 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:07:21,294 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:07:21,303 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:07:21,306 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:07:24,680 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:07:24,721 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:07:24,727 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:07:24,729 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:08:44,442 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:08:44,444 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 07:08:44,450 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:08:44,452 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:09:21,204 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:09:21,206 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 07:09:21,212 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:09:21,216 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:09:58,863 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:09:58,869 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 07:09:58,875 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:09:58,879 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:10:00,017 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:10:00,019 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 07:10:00,028 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:10:00,031 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:10:20,751 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:10:20,753 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 07:10:20,761 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:10:20,766 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:11:12,157 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:11:12,159 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 07:11:12,172 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:11:12,174 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:11:38,663 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:11:38,665 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 07:11:38,674 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:11:38,677 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:13:04,776 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:13:04,778 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 07:13:04,783 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:13:04,787 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:14:38,972 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:14:38,975 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 07:14:38,983 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:14:38,991 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 07:17:20,045 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:17:20,047 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 07:17:20,054 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 07:17:20,058 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 09:06:25,792 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 09:06:25,798 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 09:06:25,810 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 09:06:25,816 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 09:06:34,502 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 09:06:34,505 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 09:06:34,513 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 09:06:34,517 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 09:18:13,691 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 09:18:13,693 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-05 09:18:13,701 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 09:18:13,705 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 19:56:01,845 [Worker-662] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 19:56:02,278 [Worker-662] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 19:56:02,339 [Worker-662] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 19:56:02,475 [Worker-662] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 19:59:25,992 [Worker-664] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 19:59:25,997 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 19:59:26,015 [Worker-664] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 19:59:26,020 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:01:34,926 [Worker-668] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not transfer artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT from/to models (http://download.eclipse.org/recommenders/models/neon/): Connect to download.eclipse.org:80 timed out
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:169) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Could not transfer artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT from/to models (http://download.eclipse.org/recommenders/models/neon/): Connect to download.eclipse.org:80 timed out
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:43) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+Caused by: org.apache.http.conn.ConnectTimeoutException: Connect to download.eclipse.org:80 timed out
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:119) ~[na:na]
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:177) ~[na:na]
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:304) ~[na:na]
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:611) ~[na:na]
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:446) ~[na:na]
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863) ~[na:na]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72) ~[na:na]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57) ~[na:na]
+	at org.apache.http.impl.client.DecompressingHttpClient.execute(DecompressingHttpClient.java:158) ~[na:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.execute(HttpTransporter.java:287) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.implGet(HttpTransporter.java:243) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.spi.connector.transport.AbstractTransporter.get(AbstractTransporter.java:59) ~[org.eclipse.aether.spi_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$GetTaskRunner.runTask(BasicRepositoryConnector.java:447) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:350) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	... 13 common frames omitted
+2020-05-06 20:03:22,925 [Worker-674] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:03:22,927 [Worker-674] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:03:22,935 [Worker-674] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:03:22,939 [Worker-674] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:03:39,449 [Worker-671] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:03:39,452 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:03:39,458 [Worker-671] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:03:39,462 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:06:07,154 [Worker-672] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:06:07,157 [Worker-672] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:06:07,169 [Worker-672] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:06:07,175 [Worker-672] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:06:26,429 [Worker-672] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:06:26,431 [Worker-672] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:06:26,437 [Worker-672] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:06:26,442 [Worker-672] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:07:12,692 [Worker-670] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:07:12,694 [Worker-670] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:07:12,701 [Worker-670] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:07:12,705 [Worker-670] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:07:19,819 [Worker-670] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:07:19,822 [Worker-670] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:07:19,830 [Worker-670] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:07:19,833 [Worker-670] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:08:57,320 [Worker-677] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:08:57,322 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:08:57,331 [Worker-677] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:08:57,334 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:09:16,742 [Worker-677] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:09:16,745 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:09:16,757 [Worker-677] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:09:16,760 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:10:14,684 [Worker-672] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:10:14,686 [Worker-672] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:10:14,698 [Worker-672] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:10:14,703 [Worker-672] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:13:59,216 [Worker-679] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:13:59,219 [Worker-679] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:13:59,226 [Worker-679] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:13:59,231 [Worker-679] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:16:02,644 [Worker-677] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:16:02,646 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:16:02,658 [Worker-677] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:16:02,665 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:22:42,828 [Worker-685] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:22:42,833 [Worker-685] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:22:42,846 [Worker-685] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:22:42,852 [Worker-685] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:23:30,257 [Worker-677] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:23:30,260 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:23:30,269 [Worker-677] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:23:30,275 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:25:00,621 [Worker-687] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:25:00,624 [Worker-687] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:25:00,633 [Worker-687] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:25:00,637 [Worker-687] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:26:19,828 [Worker-686] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:26:19,831 [Worker-686] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:26:19,840 [Worker-686] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:26:19,846 [Worker-686] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:26:52,639 [Worker-688] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:26:52,642 [Worker-688] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:26:52,652 [Worker-688] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:26:52,657 [Worker-688] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:27:46,694 [Worker-680] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:27:46,696 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:27:46,707 [Worker-680] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:27:46,712 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:27:51,806 [Worker-677] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:27:51,809 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:27:51,815 [Worker-677] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:27:51,819 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:27:59,352 [Worker-687] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:27:59,354 [Worker-687] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:27:59,360 [Worker-687] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:27:59,363 [Worker-687] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:28:10,609 [Worker-688] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:28:10,611 [Worker-688] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:28:10,621 [Worker-688] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:28:10,625 [Worker-688] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:28:15,884 [Worker-687] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:28:15,886 [Worker-687] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:28:15,902 [Worker-687] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:28:15,906 [Worker-687] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:29:43,825 [Worker-686] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:29:43,827 [Worker-686] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:29:43,835 [Worker-686] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:29:43,839 [Worker-686] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:31:39,353 [Worker-692] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:31:39,355 [Worker-692] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:31:39,366 [Worker-692] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:31:39,371 [Worker-692] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:36:01,140 [Worker-687] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:36:01,144 [Worker-687] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:36:01,153 [Worker-687] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:36:01,156 [Worker-687] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-06 20:36:20,848 [Worker-680] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:36:20,851 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:36:20,860 [Worker-680] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:36:20,863 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-06 20:36:37,110 [Worker-694] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:36:37,112 [Worker-694] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:36:37,120 [Worker-694] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:36:37,124 [Worker-694] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-06 20:36:59,580 [Worker-695] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:36:59,604 [Worker-695] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:36:59,615 [Worker-695] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:36:59,622 [Worker-695] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:37:04,718 [Worker-687] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:37:04,721 [Worker-687] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:37:04,730 [Worker-687] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:37:04,735 [Worker-687] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:37:19,456 [Worker-695] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:37:19,458 [Worker-695] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:37:19,480 [Worker-695] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:37:19,486 [Worker-695] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:37:44,463 [Worker-695] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:37:44,465 [Worker-695] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:37:44,474 [Worker-695] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:37:44,479 [Worker-695] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 20:37:52,853 [Worker-687] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:37:52,855 [Worker-687] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-06 20:37:52,863 [Worker-687] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 20:37:52,867 [Worker-687] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:05:01,142 [Worker-776] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:05:01,171 [Worker-776] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:05:01,182 [Worker-776] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:05:01,239 [Worker-776] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:06:42,960 [Worker-775] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:06:42,963 [Worker-775] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:06:42,971 [Worker-775] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:06:42,977 [Worker-775] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:09:57,989 [Worker-781] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:09:57,991 [Worker-781] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:09:57,999 [Worker-781] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:09:58,004 [Worker-781] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:14:54,901 [Worker-781] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:14:54,916 [Worker-781] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:14:54,926 [Worker-781] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:14:54,934 [Worker-781] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:16:13,334 [Worker-789] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:16:13,337 [Worker-789] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:16:13,346 [Worker-789] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:16:13,351 [Worker-789] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:17:04,136 [Worker-781] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:17:04,137 [Worker-781] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:17:04,143 [Worker-781] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:17:04,147 [Worker-781] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:33:24,095 [Worker-794] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:33:24,098 [Worker-794] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:33:24,105 [Worker-794] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:33:24,115 [Worker-794] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:33:31,393 [Worker-796] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:33:31,396 [Worker-796] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:33:31,406 [Worker-796] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:33:31,410 [Worker-796] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:33:50,049 [Worker-797] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:33:50,054 [Worker-797] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:33:50,071 [Worker-797] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:33:50,074 [Worker-797] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-07 08:34:10,269 [Worker-793] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:34:10,272 [Worker-793] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:34:10,280 [Worker-793] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:34:10,283 [Worker-793] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-07 08:34:31,743 [Worker-793] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:34:31,746 [Worker-793] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:34:31,754 [Worker-793] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:34:31,758 [Worker-793] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-07 08:34:42,483 [Worker-797] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:34:42,486 [Worker-797] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:34:42,495 [Worker-797] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:34:42,499 [Worker-797] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:35:47,423 [Worker-795] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:35:47,426 [Worker-795] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:35:47,435 [Worker-795] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:35:47,441 [Worker-795] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:36:48,309 [Worker-796] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:36:48,313 [Worker-796] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:36:48,326 [Worker-796] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:36:48,332 [Worker-796] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:37:02,329 [Worker-792] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:37:02,331 [Worker-792] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:37:02,341 [Worker-792] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:37:02,346 [Worker-792] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:37:21,266 [Worker-795] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:37:21,269 [Worker-795] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:37:21,284 [Worker-795] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:37:21,290 [Worker-795] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:40:06,107 [Worker-792] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:40:06,110 [Worker-792] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:40:06,117 [Worker-792] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:40:06,123 [Worker-792] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:42:02,727 [Worker-801] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:42:02,730 [Worker-801] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:42:02,743 [Worker-801] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:42:02,750 [Worker-801] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:42:43,488 [Worker-797] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:42:43,491 [Worker-797] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:42:43,501 [Worker-797] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:42:43,509 [Worker-797] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:43:01,297 [Worker-803] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:43:01,299 [Worker-803] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:43:01,305 [Worker-803] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:43:01,308 [Worker-803] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:43:07,788 [Worker-796] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:43:07,790 [Worker-796] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:43:07,798 [Worker-796] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:43:07,801 [Worker-796] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-07 08:44:09,012 [Worker-792] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:44:09,015 [Worker-792] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:44:09,023 [Worker-792] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:44:09,027 [Worker-792] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:44:46,975 [Worker-796] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:44:46,977 [Worker-796] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:44:46,983 [Worker-796] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:44:46,985 [Worker-796] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-07 08:44:58,057 [Worker-792] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:44:58,060 [Worker-792] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:44:58,071 [Worker-792] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:44:58,077 [Worker-792] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:50:07,770 [Worker-805] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:50:07,773 [Worker-805] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:50:07,787 [Worker-805] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:50:07,793 [Worker-805] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:51:12,294 [Worker-803] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:51:12,297 [Worker-803] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:51:12,309 [Worker-803] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:51:12,315 [Worker-803] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:51:43,360 [Worker-806] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:51:43,363 [Worker-806] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:51:43,373 [Worker-806] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:51:43,377 [Worker-806] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:52:03,974 [Worker-805] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:52:03,977 [Worker-805] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:52:03,986 [Worker-805] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:52:03,991 [Worker-805] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:52:14,304 [Worker-806] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:52:14,307 [Worker-806] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:52:14,315 [Worker-806] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:52:14,321 [Worker-806] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:52:30,485 [Worker-812] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:52:30,488 [Worker-812] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:52:30,498 [Worker-812] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:52:30,503 [Worker-812] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 08:52:40,469 [Worker-809] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:52:40,471 [Worker-809] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 08:52:40,478 [Worker-809] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 08:52:40,483 [Worker-809] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 11:13:28,955 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-07 11:13:35,812 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bddFramework:bddFramework:0.0.1-SNAPSHOT @ G:\eclipseWorkspace\bddFramework\bddFramework\pom.xml.
+2020-05-07 11:13:41,135 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bddFramework/src/main/java
+2020-05-07 11:13:41,139 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bddFramework/src/test/java
+2020-05-07 11:13:41,140 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bddFramework/src/test/resources
+2020-05-07 11:13:42,124 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 13 sec
+2020-05-07 11:13:44,830 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 11:13:44,833 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-07 11:13:44,839 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-07 11:13:44,850 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:48:38,268 [Worker-560] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 10:48:38,332 [Worker-560] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-08 10:48:38,344 [Worker-560] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 10:48:38,456 [Worker-560] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 10:49:49,516 [Worker-560] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 10:49:49,519 [Worker-560] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-08 10:49:49,668 [Worker-560] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 10:49:50,188 [Worker-560] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:50:57,800 [Worker-555] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 10:50:57,802 [Worker-555] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-08 10:50:57,814 [Worker-555] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 10:50:57,826 [Worker-555] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 11:17:44,046 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 11:17:44,063 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-08 11:17:44,075 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 11:17:44,095 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 11:19:39,589 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 11:19:39,593 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-08 11:19:39,600 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 11:19:39,618 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 11:27:37,979 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 11:27:37,989 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-08 11:27:37,999 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 11:27:38,004 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 17:46:13,200 [Worker-359] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 17:46:13,262 [Worker-359] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 17:46:13,273 [Worker-359] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 17:46:13,350 [Worker-359] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:15:25,160 [Worker-375] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:15:25,369 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:15:25,388 [Worker-375] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:15:25,393 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:21:03,763 [Worker-376] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:21:03,765 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:21:03,774 [Worker-376] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:21:03,779 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:32:00,343 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:32:00,345 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:32:00,355 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:32:00,359 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:32:22,511 [Worker-388] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:32:22,513 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:32:22,522 [Worker-388] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:32:22,528 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:33:01,443 [Worker-393] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:33:01,445 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:33:01,454 [Worker-393] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:33:01,459 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:35:16,828 [Worker-394] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:35:16,831 [Worker-394] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:35:16,839 [Worker-394] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:35:16,841 [Worker-394] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:35:46,907 [Worker-393] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:35:46,909 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:35:46,915 [Worker-393] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:35:46,918 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:36:09,700 [Worker-394] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:36:09,703 [Worker-394] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:36:09,727 [Worker-394] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:36:09,729 [Worker-394] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:36:40,936 [Worker-393] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:36:40,938 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:36:40,947 [Worker-393] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:36:40,950 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:37:09,240 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:37:09,243 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:37:09,252 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:37:09,255 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:37:14,872 [Worker-394] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:37:14,874 [Worker-394] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:37:14,885 [Worker-394] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:37:14,887 [Worker-394] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:37:24,521 [Worker-388] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:37:24,523 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:37:24,533 [Worker-388] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:37:24,536 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:37:53,821 [Worker-396] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:37:53,823 [Worker-396] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:37:53,831 [Worker-396] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:37:53,834 [Worker-396] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:38:08,095 [Worker-396] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:38:08,098 [Worker-396] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:38:08,104 [Worker-396] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:38:08,106 [Worker-396] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:38:18,882 [Worker-394] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:38:18,884 [Worker-394] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:38:18,890 [Worker-394] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:38:18,892 [Worker-394] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:38:39,993 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:38:39,995 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:38:40,011 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:38:40,014 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:38:57,768 [Worker-391] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:38:57,770 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:38:57,777 [Worker-391] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:38:57,779 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:39:05,428 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:39:05,429 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:39:05,435 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:39:05,437 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:39:24,973 [Worker-395] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:39:24,975 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:39:24,983 [Worker-395] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:39:24,985 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:41:18,343 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:41:18,345 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:41:18,353 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:41:18,356 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:42:04,523 [Worker-401] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:42:04,528 [Worker-401] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:42:04,535 [Worker-401] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:42:04,538 [Worker-401] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:43:51,313 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:43:51,316 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:43:51,328 [Worker-392] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:43:51,331 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:44:15,410 [Worker-398] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:44:15,412 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:44:15,422 [Worker-398] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:44:15,426 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:44:19,696 [Worker-402] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:44:19,698 [Worker-402] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:44:19,705 [Worker-402] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:44:19,707 [Worker-402] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:46:48,780 [Worker-400] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:46:48,783 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 18:46:48,791 [Worker-400] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 18:46:48,845 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 19:01:32,305 [Worker-411] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:01:32,327 [Worker-411] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:01:32,336 [Worker-411] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:01:32,342 [Worker-411] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:02:48,112 [Worker-412] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:02:48,115 [Worker-412] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:02:48,123 [Worker-412] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:02:48,125 [Worker-412] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:03:16,435 [Worker-412] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:03:16,438 [Worker-412] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:03:16,453 [Worker-412] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:03:16,455 [Worker-412] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:03:50,304 [Worker-407] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:03:50,308 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:03:50,320 [Worker-407] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:03:50,323 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:04:05,290 [Worker-412] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:04:05,293 [Worker-412] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:04:05,302 [Worker-412] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:04:05,305 [Worker-412] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:04:08,932 [Worker-413] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:04:08,934 [Worker-413] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:04:08,942 [Worker-413] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:04:08,945 [Worker-413] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:04:12,790 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:04:12,793 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:04:12,802 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:04:12,804 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:04:37,519 [Worker-415] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:04:37,522 [Worker-415] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:04:37,530 [Worker-415] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:04:37,533 [Worker-415] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:22:55,837 [Worker-426] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:22:55,857 [Worker-426] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:22:55,866 [Worker-426] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:22:55,871 [Worker-426] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:24:01,139 [Worker-420] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:24:01,141 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:24:01,147 [Worker-420] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:24:01,149 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:27:00,336 [Worker-430] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:27:00,338 [Worker-430] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:27:00,352 [Worker-430] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:27:00,354 [Worker-430] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:27:07,314 [Worker-431] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:27:07,316 [Worker-431] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:27:07,322 [Worker-431] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:27:07,324 [Worker-431] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:27:17,761 [Worker-428] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:27:17,763 [Worker-428] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:27:17,769 [Worker-428] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:27:17,771 [Worker-428] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:27:39,116 [Worker-430] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:27:39,117 [Worker-430] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:27:39,123 [Worker-430] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:27:39,125 [Worker-430] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:27:56,238 [Worker-431] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:169) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:39) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2020-05-09 19:28:04,030 [Worker-426] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:28:04,033 [Worker-426] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:28:04,044 [Worker-426] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:28:04,046 [Worker-426] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:31:05,662 [Worker-432] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:31:05,664 [Worker-432] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:31:05,670 [Worker-432] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:31:05,696 [Worker-432] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-09 19:32:51,941 [Worker-426] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:32:51,944 [Worker-426] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:32:51,952 [Worker-426] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:32:51,958 [Worker-426] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-09 19:38:15,020 [Worker-438] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:38:15,022 [Worker-438] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-09 19:38:15,030 [Worker-438] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-09 19:38:15,035 [Worker-438] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-10 07:05:06,961 [Worker-470] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:05:07,028 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 07:05:07,039 [Worker-470] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:05:07,120 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-10 07:05:55,114 [Worker-471] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-10 07:06:03,892 [Worker-471] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bddFramework:bddFramework:0.0.1-SNAPSHOT @ G:\eclipseWorkspace\bddFramework\bddFramework\pom.xml.
+2020-05-10 07:06:09,795 [Worker-471] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bddFramework/src/main/java
+2020-05-10 07:06:09,799 [Worker-471] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bddFramework/src/test/java
+2020-05-10 07:06:09,801 [Worker-471] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bddFramework/src/test/resources
+2020-05-10 07:06:11,976 [Worker-471] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 16 sec
+2020-05-10 07:06:15,124 [Worker-473] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:06:15,126 [Worker-473] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 07:06:15,136 [Worker-473] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:06:15,140 [Worker-473] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-10 07:35:15,881 [Worker-481] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:35:15,883 [Worker-481] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 07:35:15,905 [Worker-481] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:35:15,914 [Worker-481] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-10 07:35:55,781 [Worker-481] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:35:55,783 [Worker-481] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 07:35:55,789 [Worker-481] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:35:55,793 [Worker-481] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-10 07:52:57,174 [Worker-496] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:52:57,192 [Worker-496] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 07:52:57,200 [Worker-496] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:52:57,203 [Worker-496] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 07:58:43,571 [Worker-500] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:58:43,574 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 07:58:43,581 [Worker-500] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:58:43,586 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-10 07:59:01,964 [Worker-497] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:59:01,967 [Worker-497] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 07:59:01,974 [Worker-497] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 07:59:01,980 [Worker-497] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-10 08:27:05,786 [Worker-508] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:27:05,789 [Worker-508] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 08:27:05,802 [Worker-508] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:27:05,806 [Worker-508] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 08:27:28,501 [Worker-507] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:27:28,503 [Worker-507] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 08:27:28,514 [Worker-507] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:27:28,519 [Worker-507] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-10 08:42:24,577 [Worker-517] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:42:24,618 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 08:42:24,626 [Worker-517] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:42:24,700 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-10 08:42:53,462 [Worker-517] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:42:53,465 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 08:42:53,478 [Worker-517] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:42:53,481 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 08:43:04,041 [Worker-516] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:43:04,043 [Worker-516] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 08:43:04,052 [Worker-516] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:43:04,058 [Worker-516] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-10 08:43:11,822 [Worker-515] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:43:11,824 [Worker-515] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 08:43:11,832 [Worker-515] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:43:11,836 [Worker-515] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-10 08:43:51,861 [Worker-519] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:43:51,863 [Worker-519] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-10 08:43:51,869 [Worker-519] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 08:43:51,873 [Worker-519] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-11 13:27:09,536 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 13:27:09,586 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 13:27:09,597 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 13:27:09,619 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-11 13:28:20,921 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 13:28:20,925 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 13:28:20,934 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 13:28:20,945 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 13:29:03,252 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 13:29:03,254 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 13:29:03,261 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 13:29:03,264 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 19:13:37,555 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:13:37,625 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 19:13:37,633 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:13:37,651 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 19:35:06,617 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:35:06,619 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 19:35:06,626 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:35:06,628 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 19:35:33,026 [Worker-97] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:169) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:39) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2020-05-11 19:36:20,112 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:36:20,114 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 19:36:20,122 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:36:20,125 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 19:37:21,750 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:37:21,752 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 19:37:21,760 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:37:21,762 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 19:40:42,826 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:40:42,828 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 19:40:42,841 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:40:43,121 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-11 19:51:35,626 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:51:35,628 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 19:51:35,635 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:51:35,637 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 19:57:32,577 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:57:32,579 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 19:57:32,586 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:57:32,588 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 19:58:36,606 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:58:36,608 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 19:58:36,616 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 19:58:36,622 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-11 20:00:15,375 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 20:00:15,377 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 20:00:15,387 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 20:00:15,390 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 20:00:22,843 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 20:00:22,845 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 20:00:22,855 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 20:00:22,862 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-11 20:00:27,881 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 20:00:27,883 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 20:00:27,892 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 20:00:27,899 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-11 20:02:41,137 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 20:02:41,139 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 20:02:41,147 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 20:02:41,149 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 20:09:55,335 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/vimalselvam/cucumber-extentsreport/3.0.2/cucumber-extentsreport-3.0.2-sources.jar
+2020-05-11 20:09:55,729 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/vimalselvam/cucumber-extentsreport/3.0.2/cucumber-extentsreport-3.0.2-sources.jar
+2020-05-11 20:09:57,162 [Worker-123] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.vimalselvam:cucumber-extentsreport:3.0.2
+2020-05-11 20:10:00,062 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 20:10:00,065 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 20:10:00,084 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 20:10:00,094 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 20:15:57,522 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 20:15:57,525 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-11 20:15:57,531 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 20:15:57,534 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-12 13:10:07,493 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-12 13:10:07,523 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-12 13:10:07,533 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-12 13:10:07,553 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-12 13:10:25,750 [Worker-7] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:169) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:39) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2020-05-12 13:10:29,805 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-12 13:10:29,808 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-12 13:10:29,818 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-12 13:10:29,830 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-12 13:11:06,451 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-12 13:11:06,453 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-12 13:11:06,458 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-12 13:11:06,461 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-14 08:18:07,149 [Worker-372] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-14 08:18:07,815 [Worker-372] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-14 08:18:07,880 [Worker-372] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-14 08:18:07,953 [Worker-372] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-15 20:25:28,275 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-15 20:25:35,592 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bddFramework:bddFramework:0.0.1-SNAPSHOT @ G:\eclipseWorkspace\bddFramework\bddFramework\pom.xml.
+2020-05-15 20:25:41,022 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bddFramework/src/main/java
+2020-05-15 20:25:41,026 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bddFramework/src/test/java
+2020-05-15 20:25:41,028 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bddFramework/src/test/resources
+2020-05-15 20:25:42,022 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 13 sec
+2020-05-15 20:25:44,087 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:25:44,090 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-15 20:25:44,101 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:25:44,119 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-15 20:26:42,143 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:26:42,145 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-15 20:26:42,152 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:26:42,160 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-15 20:31:32,627 [Worker-21] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:169) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:39) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2020-05-15 20:32:25,788 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:32:25,790 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-15 20:32:25,800 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:32:25,803 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-15 20:32:56,110 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:32:56,116 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-15 20:32:56,123 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:32:56,126 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-15 20:33:40,661 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:33:40,664 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-15 20:33:40,799 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:33:40,802 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-15 20:35:37,370 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:35:37,373 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-15 20:35:37,383 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:35:37,387 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-15 20:35:43,506 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:35:43,508 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-15 20:35:43,516 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:35:43,519 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-15 20:43:14,211 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:43:14,214 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-15 20:43:14,223 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:43:14,227 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-15 20:44:03,202 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:44:03,205 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-15 20:44:03,216 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:44:03,219 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-15 20:46:14,958 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:46:14,960 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\bddFramework\bddFramework\src\main\resources
+2020-05-15 20:46:14,976 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-15 20:46:15,190 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-16 08:15:22,729 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-16 08:15:34,005 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bddFramework:bddFramework:0.0.1-SNAPSHOT @ G:\eclipseWorkspace\kodoWorkSpace\bddFramework\pom.xml.
+2020-05-16 08:15:41,637 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bddFramework/src/main/java
+2020-05-16 08:15:41,641 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bddFramework/src/test/java
+2020-05-16 08:15:41,642 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bddFramework/src/test/resources
+2020-05-16 08:15:42,584 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 19 sec
+2020-05-16 08:15:44,608 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:15:44,613 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\kodoWorkSpace\bddFramework\src\main\resources
+2020-05-16 08:15:44,622 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:15:44,640 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-16 08:19:05,985 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:19:05,987 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\kodoWorkSpace\bddFramework\src\main\resources
+2020-05-16 08:19:05,996 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:19:06,019 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-16 08:19:12,094 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:19:12,097 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\kodoWorkSpace\bddFramework\src\main\resources
+2020-05-16 08:19:12,103 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:19:12,105 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-16 08:19:20,944 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:19:20,946 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\kodoWorkSpace\bddFramework\src\main\resources
+2020-05-16 08:19:20,954 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:19:20,957 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-16 08:19:55,634 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:19:55,637 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\kodoWorkSpace\bddFramework\src\main\resources
+2020-05-16 08:19:55,646 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:19:55,652 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-16 08:20:36,827 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:20:36,829 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\kodoWorkSpace\bddFramework\src\main\resources
+2020-05-16 08:20:36,839 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:20:36,850 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-16 08:21:00,952 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\eclipseWorkspace\kodoWorkSpace\bddFramework
+2020-05-16 08:21:00,956 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-05-16 08:21:12,509 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:21:12,511 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\kodoWorkSpace\bddFramework\src\main\resources
+2020-05-16 08:21:12,517 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:21:12,523 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-16 08:21:28,351 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-05-16 08:21:39,717 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\eclipseWorkspace\kodoWorkSpace\bddFramework
+2020-05-16 08:21:39,717 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2020-05-16 08:22:44,386 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-16 08:22:46,425 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bddFramework:bddFramework:0.0.1-SNAPSHOT @ G:\eclipseWorkspace\kodoWorkSpace\bddFramework\pom.xml.
+2020-05-16 08:22:48,652 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bddFramework/src/main/java
+2020-05-16 08:22:48,656 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bddFramework/src/test/java
+2020-05-16 08:22:48,658 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bddFramework/src/test/resources
+2020-05-16 08:22:49,366 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2020-05-16 08:22:51,225 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:22:51,228 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\kodoWorkSpace\bddFramework\src\main\resources
+2020-05-16 08:22:51,242 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:22:51,247 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-16 08:23:39,545 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:23:39,547 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\eclipseWorkspace\kodoWorkSpace\bddFramework\src\main\resources
+2020-05-16 08:23:39,553 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-16 08:23:39,562 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
