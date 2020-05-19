@@ -1,0 +1,7 @@
+package baseClass;
+
+import rootClass.Rootclass;
+
+public class BaseClass extends Rootclass{
+
+}

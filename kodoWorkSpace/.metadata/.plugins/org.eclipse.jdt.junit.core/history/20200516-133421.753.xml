@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Runner" project="bddFramework" tests="1" started="1" failures="0" errors="2" ignored="0">
+  <testsuite name="runnerClass.Runner" time="0.035">
+    <testsuite name="Feature: User registration on Tour Demo site" time="0.035">
+      <testsuite name="Scenario: User registration" time="0.035" incomplete="true">
+        <error>java.lang.NullPointerException&#13;
+	at utility.ActionsClass.launchUrl(ActionsClass.java:90)&#13;
+	at stepDefinition.KodoStepDefinition.I_launch_ur(KodoStepDefinition.java:23)&#13;
+	at ✽.Given I launch the UR(feature/KodoScenario.feature:4)&#13;
+&#13;
+</error>
+        <testcase name="Given I launch the UR" classname="Scenario: User registration" time="0.035">
+          <error>java.lang.NullPointerException&#13;
+	at utility.ActionsClass.launchUrl(ActionsClass.java:90)&#13;
+	at stepDefinition.KodoStepDefinition.I_launch_ur(KodoStepDefinition.java:23)&#13;
+	at ✽.Given I launch the UR(feature/KodoScenario.feature:4)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

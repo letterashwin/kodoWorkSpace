@@ -1,0 +1,8 @@
+Feature: User registration on Tour Demo site
+
+Scenario: User registration
+    Given I launch the URL
+    Then Register user
+    Then Fill In details
+    And I login
+    

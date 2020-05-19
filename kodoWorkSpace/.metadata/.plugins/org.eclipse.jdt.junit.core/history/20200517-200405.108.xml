@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Runner" project="bddFramework" tests="2" started="2" failures="0" errors="2" ignored="0">
+  <testsuite name="runnerClass.Runner" time="15.4">
+    <testsuite name="Feature: User registration on Tour Demo site" time="15.4">
+      <testsuite name="Scenario: User registration" time="15.4" incomplete="true">
+        <error>java.lang.NullPointerException&#13;
+	at pageRepositories.KodoPageRepository_homePage.suggestionListText(KodoPageRepository_homePage.java:89)&#13;
+	at stepDefinition.KodoStepDefinition.search_bar_functional_behaviour(KodoStepDefinition.java:108)&#13;
+	at ✽.And Search bar functional behaviour(feature/KodoScenario.feature:8)&#13;
+&#13;
+</error>
+        <testcase name="Given I launch the URL" classname="Scenario: User registration" time="15.363"/>
+        <testcase name="And Search bar functional behaviour" classname="Scenario: User registration" time="0.037">
+          <error>java.lang.NullPointerException&#13;
+	at pageRepositories.KodoPageRepository_homePage.suggestionListText(KodoPageRepository_homePage.java:89)&#13;
+	at stepDefinition.KodoStepDefinition.search_bar_functional_behaviour(KodoStepDefinition.java:108)&#13;
+	at ✽.And Search bar functional behaviour(feature/KodoScenario.feature:8)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

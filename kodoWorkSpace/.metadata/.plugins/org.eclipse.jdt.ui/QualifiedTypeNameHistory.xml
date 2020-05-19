@@ -10,5 +10,7 @@
 <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="cucumber.api.java.After"/>
 <fullyQualifiedTypeName name="rootClass.Rootclass"/>
+<fullyQualifiedTypeName name="utility.Utility"/>
 </qualifiedTypeNameHistroy>

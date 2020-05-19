@@ -1,0 +1,98 @@
+package pageRepositories;
+
+
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import rootClass.Rootclass;
+import utility.ActionsClass;
+
+public class KodoPageRepository_homePage extends Rootclass {
+	
+	ActionsClass act =new ActionsClass();
+	
+	
+	public KodoPageRepository_homePage() {
+		// This initElements method will create all WebElements
+		PageFactory.initElements(driver, this);
+	}
+	
+	
+	@FindBy(id="search_query_top")
+	public WebElement searchTextbox;
+	
+	
+	public void clicksSearchTextbox(){
+		act.clickOnElement(searchTextbox);
+    }
+	
+	public void typeInSearchTextbox(String text){
+		searchTextbox.clear();
+		searchTextbox.sendKeys(text);
+		
+    }
+	
+	@FindBy(name="submit_search")
+	public WebElement searchIcon;
+	
+	
+	public void clickSearchIcon(){
+		act.clickOnElement(searchIcon);
+    }
+	
+	@FindBy(xpath="//div[@class='ac_results']//li[contains(@class,'ac_')]")
+	public List<WebElement> suggestionList;
+	
+	@FindBy(xpath="//div[@class='ac_results']//li[contains(@class,'ac_')]")
+	public WebElement suggestionDropDown;
+	
+	
+	
+	@FindBy(xpath="//p[@class='alert alert-warning']")
+	public WebElement warningMsgTextele;
+	
+	public String warningMsgTexteleGetText(){
+		System.out.println(warningMsgTextele.getText());
+		return warningMsgTextele.getText();
+		
+    }
+	
+	@FindBy(xpath="//span[@class='lighter']")
+	public WebElement searchResultText;
+	
+	public String searchResultTextGetText(){
+		return searchResultText.getText();
+		
+    }
+	
+	@FindBy(xpath="//span[@class='heading-counter']")
+	public WebElement searchResultCounter;
+	
+	public int searchResultCounter() {
+		System.out.println((searchResultCounter.getText().trim().split(" "))[0]);
+		return Integer.parseInt((searchResultCounter.getText().trim().split(" "))[0]);
+	}
+	
+	public int suggestionListCount() {
+		return (suggestionList.size());
+	}
+	
+	public List<String> suggestionListText() {
+		System.out.println(suggestionList.size()+"*-*-**-**");
+		
+		List<String> text = new ArrayList();
+		for(int i=0;i<=suggestionList.size();i++){
+			
+			text.add(suggestionList.get(i).getText());			
+		}
+		return text;
+		
+	}
+
+}

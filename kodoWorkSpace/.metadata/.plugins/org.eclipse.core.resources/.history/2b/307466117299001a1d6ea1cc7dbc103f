@@ -1,0 +1,17 @@
+package hooks;
+
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
+
+public class CustomExtendReporter {
+	
+	private ExtentHtmlReporter extentHtmlReporter ;
+	private ExtentReports extentReports ;
+	
+	public CustomExtendReporter (String reportLocation){
+		extentHtmlReporter = new ExtentHtmlReporter(new File(reportLocation));
+		extentReports = new ExtentReports();
+		extentReports.attachReporter(extentHtmlReporter);
+	}
+
+}

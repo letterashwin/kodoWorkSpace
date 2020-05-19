@@ -1,7 +1,0 @@
-package testMethods;
-
-import rootClass.Rootclass;
-
-public class tourDemoTestMethod_registrationPage extends Rootclass{
-
-}

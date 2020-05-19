@@ -1,0 +1,11 @@
+Feature: User registration on Tour Demo site 
+
+Scenario Outline: User registration 
+#    Given I launch the URL	
+#    Then Checking search bar availablity
+#    And Checking Search bar input validations 
+	And Checking Search bar functional behaviour using "<validText1>" and "<inValidText>" 
+	Examples: 
+		| validText1   | inValidText |
+		| rahul@gmail.com | Test@123 |
+		

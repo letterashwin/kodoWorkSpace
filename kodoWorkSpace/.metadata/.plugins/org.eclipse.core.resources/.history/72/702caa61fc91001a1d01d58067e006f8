@@ -1,7 +1,0 @@
-package pageRepositories;
-
-import rootClass.Rootclass;
-
-public class tourDemoPageRepository_homePage extends Rootclass {
-
-}

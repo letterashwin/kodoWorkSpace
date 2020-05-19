@@ -1,0 +1,9 @@
+Feature: User registration on Tour Demo site
+
+Scenario: User registration
+    Given I launch the URL	
+    Then Check search bar availablity
+    Then Search bar input validations
+    Then Search bar UI behaviour
+	And Search bar functional behaviour
+    

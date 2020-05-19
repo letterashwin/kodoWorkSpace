@@ -1,7 +1,0 @@
-package rootClass;
-
-import org.openqa.selenium.WebDriver;
-
-public class Rootclass {
-	WebDriver driver = null;
-}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Runner" project="bddFramework" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="runnerClass.Runner" time="15.065">
+    <testsuite name="Feature: User registration on Tour Demo site" time="15.065">
+      <testsuite name="Scenario: User registration" time="15.065">
+        <testcase name="Given I launch the URL" classname="Scenario: User registration" time="14.568"/>
+        <testcase name="And Search bar functional behaviour" classname="Scenario: User registration" time="0.497"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

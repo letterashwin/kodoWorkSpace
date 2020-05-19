@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Runner" project="bddFramework" tests="2" started="2" failures="2" errors="0" ignored="0">
+  <testsuite name="runnerClass.Runner" time="10.616">
+    <testsuite name="Feature: User registration on Tour Demo site" time="10.616">
+      <testsuite name="Scenario: User registration" time="10.616" incomplete="true">
+        <failure>
+          <expected>Printed Summer Dress</expected>
+          <actual>Search</actual>org.junit.ComparisonFailure: expected:&lt;[Printed Summer Dress]&gt; but was:&lt;[Search]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:115)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:144)&#13;
+	at stepDefinition.KodoStepDefinition.search_bar_functional_behaviour(KodoStepDefinition.java:102)&#13;
+	at ✽.And Search bar functional behaviour(feature/KodoScenario.feature:8)&#13;
+&#13;
+</failure>
+        <testcase name="Given I launch the URL" classname="Scenario: User registration" time="10.572"/>
+        <testcase name="And Search bar functional behaviour" classname="Scenario: User registration" time="0.044">
+          <failure>
+            <expected>Printed Summer Dress</expected>
+            <actual>Search</actual>org.junit.ComparisonFailure: expected:&lt;[Printed Summer Dress]&gt; but was:&lt;[Search]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:115)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:144)&#13;
+	at stepDefinition.KodoStepDefinition.search_bar_functional_behaviour(KodoStepDefinition.java:102)&#13;
+	at ✽.And Search bar functional behaviour(feature/KodoScenario.feature:8)&#13;
+&#13;
+</failure>
+        </testcase>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

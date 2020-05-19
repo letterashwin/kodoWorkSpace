@@ -1,6 +1,0 @@
-Feature: User registration on Tour Demo site
-
-Scenario: User registration
-    Given Register user
-    When I login
-    
