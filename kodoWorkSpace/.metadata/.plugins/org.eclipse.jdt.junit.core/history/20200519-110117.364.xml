@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Runner" project="bddFramework" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="runnerClass.Runner" time="2.745">
+    <testsuite name="Feature: KODO's Mini project" time="2.745">
+      <testsuite name="Scenario Outline: Search Functionality Validation" time="2.745">
+        <testsuite name="Examples:" time="2.745">
+          <testsuite name="| PRINTED SUMMER DRESS | xxxxyyyy |" time="2.745">
+            <testcase name="Given I launch the URL" classname="| PRINTED SUMMER DRESS | xxxxyyyy |" time="2.744"/>
+          </testsuite>
+        </testsuite>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

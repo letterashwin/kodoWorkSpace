@@ -60,7 +60,6 @@ public class KodoPageRepository_homePage extends Rootclass {
 	}
 
 	public String warningMsgTexteleGetText() {
-		System.out.println(warningMsgTextele.getText());
 		return warningMsgTextele.getText();
 
 	}

@@ -13,4 +13,6 @@
 <fullyQualifiedTypeName name="cucumber.api.java.After"/>
 <fullyQualifiedTypeName name="rootClass.Rootclass"/>
 <fullyQualifiedTypeName name="utility.Utility"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.cucumber.listener.Reporter"/>
 </qualifiedTypeNameHistroy>

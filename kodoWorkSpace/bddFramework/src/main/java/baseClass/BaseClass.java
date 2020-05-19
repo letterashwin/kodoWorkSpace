@@ -15,26 +15,14 @@ import utility.Utility;
 public class BaseClass extends Rootclass {
 	
 	Utility ut =new Utility();
-//Reporter reporter = new Reporter();
 	
 	
-	
-	@Before
 	/**
-	* Returns an Image object that can then be painted on the screen. 
-	* The url argument must specify an absolute <a href="#{@link}">{@link URL}</a>. The name
-	* argument is a specifier that is relative to the url argument. 
-	* <p>
-	* This method always returns immediately, whether or not the 
-	* image exists. When this applet attempts to draw the image on
-	* the screen, the data will be loaded. The graphics primitives 
-	* that draw the image will incrementally paint on the screen. 
-	*
-	* @param  url  an absolute URL giving the base location of the image
-	* @param  name the location of the image, relative to the url argument
-	* @return      the image at the specified URL
-	* @see         Image
+	* Method:initialSetup() will initiate the Web-driver and launch browser for executing scripts
+	* Browser name is parameterized from config.properties
+	* @return      Void
 	*/
+	@Before	
 	public void initialSetup() {
 		System.out.println("initialSetup() is getting executed");
 		String browserIE = ut.readProperty("ie", "config");
@@ -67,11 +55,10 @@ public class BaseClass extends Rootclass {
 		}
 	}
 	
-	//@Before
-	 public void beforeScenario(Scenario scenario) {
-	     Reporter.assignAuthor("ASHWIN PT");
-	 }
-	
+	/**
+	* Method:closeBrowser()  is used to close the browser after execution
+	* @return     Void
+	*/
 	@After
 	public void closeBrowser(){
 		driver.close();

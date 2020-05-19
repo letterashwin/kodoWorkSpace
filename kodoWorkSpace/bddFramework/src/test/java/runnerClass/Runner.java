@@ -19,34 +19,20 @@ plugin={"com.cucumber.listener.ExtentCucumberFormatter:target/html/ExtentReport.
 
 public class Runner {
 	
-	
+	/**
+	* Method: ExtentReportsetup() is used to manage the Extent report attributes
+	* @return  Void
+	*/
 	@AfterClass
 	public static void setup()
 	{
 	Reporter.loadXMLConfig(new File("src/test/resources/extent-config.xml"));
 	Reporter.setSystemInfo("User Name", "ASHWIN PT");
-	Reporter.setSystemInfo("Application Name", "Test App ");
+	Reporter.setSystemInfo("Application Name", "http://automationpractice.com/index.php");
 	Reporter.setSystemInfo("Operating System Type", System.getProperty("os.name").toString());
-	Reporter.setSystemInfo("Environment", "Production");
+	Reporter.setSystemInfo("Environment", "Test Environment");
 	Reporter.setTestRunnerOutput("Test Execution Cucumber Report");
 	
 	}
-	
-	
-	
-//	public static void writeExtentReport() {
-//		Reporter.loadXMLConfig("G:/eclipseWorkspace/KodoGit/kodoWorkSpace/kodoWorkSpace/bddFramework/src/test/resources/extent-config.xml");
-//		
-//		Reporter.setSystemInfo("User Name", System.getProperty("user.name"));
-//	     Reporter.setSystemInfo("Time Zone", System.getProperty("user.timezone"));
-//	     Reporter.setSystemInfo("Machine", "Windows 10" + "64 Bit");
-//	     Reporter.setSystemInfo("Selenium", "3.7.0");
-//	     Reporter.setSystemInfo("Maven", "3.5.2");
-//	     Reporter.setSystemInfo("Java Version", "1.8.0_151");
-//		
-//	}
-	}
 
-//plugin={"com.cucumber.listner.ExtentCucumberFormatter:target/cucumber-html-report/report.html"}ss
-//plugin={"html:target/cucumber-html-report"}
-//plugin = { "com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"}
+	}

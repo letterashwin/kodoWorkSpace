@@ -96,12 +96,18 @@ public class KodoStepDefinition extends Rootclass {
 
 		// Type a product name and check the product name is available in the
 		// suggestions list
-		homePage.typeInSearchTextbox(validText1);
+		
+		String validText2= "Print";
+		homePage.typeInSearchTextbox(validText2);
 		Thread.sleep(5000);
-		Assert.assertEquals(homePage.suggestionListText().get(0).contains(validText1), true);
-
+		for (int i = 0; i < (homePage.suggestionListText().size()-1); i++) {
+			Assert.assertEquals(homePage.suggestionListText().get(i).contains(validText2), true);
+		}
 		// Check the suggestion are prefixed with the category names
-		Assert.assertEquals(homePage.suggestionListText().get(0).contains(">"), true);
+		
+		for (int i = 0; i < (homePage.suggestionListText().size()-1); i++) {
+			Assert.assertEquals(homePage.suggestionListText().get(i).contains(">"), true);
+		}
 
 	}
 

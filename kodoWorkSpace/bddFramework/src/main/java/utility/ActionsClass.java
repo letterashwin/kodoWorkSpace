@@ -21,38 +21,43 @@ public class ActionsClass extends Rootclass{
 	
 	Utility ut = new  Utility();
 	
-	
+	/**
+	* Method: "getText" is used get the text of the element passed 
+	* @param: "ele" the webelement should be passed to get text
+	* @return      String
+	*/
 	public String getText(WebElement ele) {
 		WebDriverWait wait=new WebDriverWait(driver,10);
-		wait.until(ExpectedConditions.elementToBeClickable(ele));
+		try {
+			wait.until(ExpectedConditions.elementToBeClickable(ele));
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 		return ele.getText();
 	}
 
-	// Get attribute for the web element
+	/**
+	* Method: "getAttribute" is used get the attribute of the element passed 
+	* @param: "ele" the webelement should be passed to get the attribute 
+	* @return      String
+	*/
 	public String getAttribute(String attribute, WebElement ele) {
 		WebDriverWait wait=new WebDriverWait(driver,30);
-		wait.until(ExpectedConditions.elementToBeClickable(ele));
+		try {
+			wait.until(ExpectedConditions.elementToBeClickable(ele));
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 		return ele.getAttribute(attribute);
 	}
 
-	// Verify the element is enable and displayed
+	
 	
 	/**
-	* Returns an Image object that can then be painted on the screen. 
-	* The url argument must specify an absolute <a href="#{@link}">{@link URL}</a>. The name
-	* argument is a specifier that is relative to the url argument. 
-	* <p>
-	* This method always returns immediately, whether or not the 
-	* image exists. When this applet attempts to draw the image on
-	* the screen, the data will be loaded. The graphics primitives 
-	* that draw the image will incrementally paint on the screen. 
-	*
-	* @param  url  an absolute URL giving the base location of the image
-	* @param  name the location of the image, relative to the url argument
-	* @return      the image at the specified URL
-	* @see         Image
+	* Method: "isEnbleAndDisplay" is used check the webelement is present on the screen or not 
+	* @param: "ele" the webelement should be passed 
+	* @return      boolean
 	*/
-
 	public boolean isEnbleAndDisplay(WebElement ele) {
 		
 		boolean status = false;
@@ -68,50 +73,85 @@ public class ActionsClass extends Rootclass{
 
 		return status;
 	}
-
+	
+	/**
+	* Method: "clickOnElement" is used to click on the webelement
+	* @param: "ele" the webelement should be passed to click
+	* @return      void
+	*/
 	public void clickOnElement(WebElement ele) {
 		WebDriverWait wait=new WebDriverWait(driver,15);
-		wait.until(ExpectedConditions.elementToBeClickable(ele));
-		ele.click();
+		try {
+			wait.until(ExpectedConditions.elementToBeClickable(ele));
+			ele.click();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 
+	/**
+	* Method: "javascriptClick" is used to click on the webelement using JS
+	* @param: "ele" the webelement should be passed to click
+	* @return      void
+	*/
 	public void javascriptClick(WebElement ele) {
 		WebDriverWait wait=new WebDriverWait(driver,30);
-		wait.until(ExpectedConditions.elementToBeClickable(ele));
-		JavascriptExecutor executor = (JavascriptExecutor) driver;
-		executor.executeScript("arguments[0].click();", ele);
+		try {
+			wait.until(ExpectedConditions.elementToBeClickable(ele));
+			JavascriptExecutor executor = (JavascriptExecutor) driver;
+			executor.executeScript("arguments[0].click();", ele);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
-
+	
+	/**
+	* Method: "getTheListOfStringFromFindElements" is used to get the list of String 
+	* @param: "xpath" String should be passed to retrieve the corresponding List<Strinng>
+	* @return      List<String>
+	*/
 	public List<String> getTheListOfStringFromFindElements(String xpath) {
 		List<String> list = new ArrayList<String>();
 		List<WebElement> we = driver.findElements(By.xpath(xpath));
-		for (int i = 0; i < we.size(); i++) {
-			list.add(we.get(i).getText());
+		try {
+			for (int i = 0; i < we.size(); i++) {
+				list.add(we.get(i).getText());
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
 		}
 		return list;
 	}
 
-	// Switch to child window
-
+	/**
+	* Method: "switchToChildWindow" is used to switch the browser windows
+	* @return      void
+	*/
 	public void switchToChildWindow() {
 
 		String parentWindow = driver.getWindowHandle();
-		for (String s : driver.getWindowHandles()) {
-			if (!s.equals(parentWindow)) {
-				driver.switchTo().window(s);
+		try {
+			for (String s : driver.getWindowHandles()) {
+				if (!s.equals(parentWindow)) {
+					driver.switchTo().window(s);
+				}
 			}
+		} catch (Exception e) {
+			e.printStackTrace();
 		}
 	}
 	
+	/**
+	* Method: "launchUrl" is used to launch the desired URL
+	* URL is taken from the config.properties file
+	* @return      void
+	*/
 	public void launchUrl() {
-		driver.get(ut.readProperty("url", "config"));
-
-//		try {
-//			driver.get(ut.readProperty("url", "config"));
-//		} catch (Exception e) {
-//
-//			e.printStackTrace();
-//		}
+		try {
+			driver.get(ut.readProperty("url", "config"));
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 	
 	
