@@ -13,18 +13,18 @@ public class KodoStepDefinition extends Rootclass {
 	KodoPageRepository_homePage homePage = new KodoPageRepository_homePage();
 	ActionsClass act = new ActionsClass();
 
-	@Given("^I launch the URL$")
+	@Given("^TC-1 I launch the URL$")
 	public void I_launch_url() throws Throwable {
 		act.launchUrl();
 	}
 
-	@Then("^Checking search bar availablity$")
+	@Then("^TC-2 Checking search bar availablity$")
 	public void check_search_bar_availablity() throws Throwable {
 		act.isEnbleAndDisplay(homePage.searchTextbox);
 		act.isEnbleAndDisplay(homePage.searchIcon);
 	}
 
-	@Then("^Checking Search bar input validations$")
+	@Then("^TC-3 Checking Search bar input validations$")
 	public void search_bar_input_validations() throws Throwable {
 
 		String alpha = "Demo";
@@ -54,7 +54,7 @@ public class KodoStepDefinition extends Rootclass {
 
 	}
 
-	@Then("^Checking Search bar functional behaviour using \"([^\"]*)\" and \"([^\"]*)\"$")
+	@Then("^TC-5 Checking Search bar functional behaviour using \"([^\"]*)\" and \"([^\"]*)\"$")
 	public void search_bar_functional_behaviour(String validText1 ,String inValidText) throws Throwable {
 
 		// Enter 2 character and check for suggestion drop down
