@@ -20,7 +20,7 @@ How to execute :
  -Runner File (\src\test\java\runnerClass\Runner.java)
  
  Execution management can be done in two ways 
- - congig.properties (\src\test\resources\config.properties)
+ - config.properties (\src\test\resources\config.properties)
      *URL ,Username,Password....etc can be handled here . 
  
  - Feature File (\src\test\resources\feature\KodoScenario.feature)
