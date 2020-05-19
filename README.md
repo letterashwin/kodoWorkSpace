@@ -28,6 +28,11 @@ How to execute :
  
  The above files can be manipulated as per the execution requirement .
  
+ ==================================================
+ REPORT :
+ ==================================================
+ 
+ ExtentReport : \target\html\ExtentReport.html
  
  
 
